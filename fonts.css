@@ -1,0 +1,14 @@
+@font-face { /* 폰트지정 */
+    font-family: 'NotoSans';
+    src: url('./font/NotoSans.OTF;')
+}
+
+@font-face {
+    font-family: 'Yuni-B';
+    src: url('./font/YUniverse-B.ttf')
+}
+
+@font-face {
+    font-family: 'Saonara';
+    src: url('./font/Saonara.otf')
+}
